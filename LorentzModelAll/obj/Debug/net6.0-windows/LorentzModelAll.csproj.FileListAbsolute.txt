@@ -1,0 +1,51 @@
+E:\Simulation\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.exe
+E:\Simulation\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.deps.json
+E:\Simulation\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.runtimeconfig.json
+E:\Simulation\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.dll
+E:\Simulation\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.pdb
+E:\Simulation\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.csproj.AssemblyReference.cache
+E:\Simulation\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.Form1.resources
+E:\Simulation\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.csproj.GenerateResource.cache
+E:\Simulation\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.GeneratedMSBuildEditorConfig.editorconfig
+E:\Simulation\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.AssemblyInfoInputs.cache
+E:\Simulation\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.AssemblyInfo.cs
+E:\Simulation\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.csproj.CoreCompileInputs.cache
+E:\Simulation\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.dll
+E:\Simulation\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\refint\LorentzModelAll.dll
+E:\Simulation\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.pdb
+E:\Simulation\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.genruntimeconfig.cache
+E:\Simulation\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\ref\LorentzModelAll.dll
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.exe
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.deps.json
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.runtimeconfig.json
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.dll
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.pdb
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.csproj.AssemblyReference.cache
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.Form1.resources
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.csproj.GenerateResource.cache
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.GeneratedMSBuildEditorConfig.editorconfig
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.AssemblyInfoInputs.cache
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.AssemblyInfo.cs
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.csproj.CoreCompileInputs.cache
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.dll
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\refint\LorentzModelAll.dll
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.pdb
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.genruntimeconfig.cache
+E:\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\ref\LorentzModelAll.dll
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.exe
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.deps.json
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.runtimeconfig.json
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.dll
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\bin\Debug\net6.0-windows\LorentzModelAll.pdb
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.csproj.AssemblyReference.cache
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.Form1.resources
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.csproj.GenerateResource.cache
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.GeneratedMSBuildEditorConfig.editorconfig
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.AssemblyInfoInputs.cache
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.AssemblyInfo.cs
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.csproj.CoreCompileInputs.cache
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.dll
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\refint\LorentzModelAll.dll
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.pdb
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\LorentzModelAll.genruntimeconfig.cache
+E:\All Files Folder\Simulation\After mids 7\LorentzModelAll\LorentzModelAll\obj\Debug\net6.0-windows\ref\LorentzModelAll.dll
